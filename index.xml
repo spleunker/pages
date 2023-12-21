@@ -1,39 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Neo&#39;s Webpage</title>
+    <title>Neo&#39;s Webpage</title>
     <link>/</link>
-    <description>Recent content in Home on Neo&#39;s Webpage</description>
+    <description>Recent content on Neo&#39;s Webpage</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 17 Oct 2023 22:03:54 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Oct 2023 22:03:54 +0100</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Updates</title>
       <link>/posts/updates/</link>
       <pubDate>Tue, 17 Oct 2023 22:03:54 +0100</pubDate>
-      
       <guid>/posts/updates/</guid>
       <description>Heya! I&amp;rsquo;ve made a few updates to the site&amp;rsquo;s hugo theme in terms of some of it&amp;rsquo;s formatting and organizing a bit of the CSS so it doesn&amp;rsquo;t look like a complete mess. In the coming weeks I may not be able to post any articles for a long while(not that I was posting any..haha..) since I&amp;rsquo;ve got a few exams coming up but of course, once I do finish these exams I&amp;rsquo;ll try to have atleast 1 article out every 2 weeks; I&amp;rsquo;ll also implement RSS to the site so people don&amp;rsquo;t have to keep coming back to the site.</description>
     </item>
-    
     <item>
       <title>An Introduction to Art</title>
       <link>/posts/art/</link>
       <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
-      
       <guid>/posts/art/</guid>
-      <description>An 8th grade teacher of mine even used the quote &amp;ldquo;All geniuses die young&amp;rdquo; by Groucho Marx to emphasize the countless numbers of artists who would eventually end their own lives. Either because of depression, sadness or due to the result of their unsuccessful careers. Although, funny thing is, most of these artists are now one of the most well-known and sought after artists of all time. Some revolutionized the arts.</description>
+      <description>An 8th grade teacher of mine used the quote &amp;ldquo;All geniuses die young&amp;rdquo; by Groucho Marx to emphasize the countless numbers of artists who would eventually end their own lives. Either because of depression, sadness or due to the result of their unsuccessful careers. Although, funny thing is, most of these artists are now one of the most well-known and sought after artists of all time. Some revolutionized the arts. For example, Claude Monet who would paint landscapes at different times to not only encompass the differnet array of colors but the emotion it would entail on the onlooker.</description>
     </item>
-    
     <item>
       <title>Is Wayland Ready?</title>
       <link>/posts/wayland/</link>
       <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
-      
       <guid>/posts/wayland/</guid>
-      <description>In short, mostly. The bare essentials are fully functional but what essentials? Things like: status bars, app-launchers, terminals etc. Everything you&amp;rsquo;d need for a window-manager, but there are still some minor annoyances here and there.
-One being the cursor&amp;rsquo;s size or &amp;ldquo;style&amp;rdquo; switching between programs. It may take a few more months until all these minor problems have been ridden off but Wayland certainly does have the potentiality to replace Xorg.</description>
+      <description>In short, mostly. The bare essentials are fully functional but what essentials? Things like: status bars, app-launchers, terminals etc. Everything you&amp;rsquo;d need for a window-manager, but there are still some minor annoyances here and there.&#xA;One being the cursor&amp;rsquo;s size or &amp;ldquo;style&amp;rdquo; switching between programs. It may take a few more months until all these minor problems have been ridden off but Wayland certainly does have the potentiality to replace Xorg.</description>
     </item>
-    
   </channel>
 </rss>

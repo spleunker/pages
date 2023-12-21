@@ -1,0 +1,61 @@
+/* CSS for box/styling*/
+/* Starts here */
+div.content {
+	background-color : black;
+	color: white;
+}
+
+body {
+	background-color: black;
+}
+
+/* Ends here */
+
+/* CSS for nav */
+/* Stars here */
+a {
+	color: #3d8777;
+}
+
+a:visited {
+	color: #357768;
+}
+
+a:hover{
+	background-color: #BDBDBD;
+}
+
+.main-menu {
+	font-size: 19.5px;
+	word-spacing: 5px;
+	border-radius: 5px;
+	background-color: #3d4143;
+	border-width: 2px;
+	border-style: solid;
+	display: inline;
+	padding: 0px;
+}
+.main-menu ul {
+	list-style: none;
+}
+
+.main-menu li {
+	display: inline;
+}
+/* Ends here */
+
+hr {
+	position: absolute;
+	right: 0;
+	max-width: 120%;
+        width: 120%;
+}
+
+div.logo {
+	font-size: 0.35in;
+	color: white;
+}
+
+p {
+	margin-top: 23px;
+    }
