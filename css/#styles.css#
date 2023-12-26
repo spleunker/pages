@@ -1,8 +1,4 @@
-div.content {
-	background-color : black;
-	color: white;
-	margin-left: 5in;
-	margin-right: 5in;
+;
 }
 
 body {
@@ -40,17 +36,9 @@ a:hover{
 	display: inline;
 }
 
-.nav-hr {
+hr {
 	position: absolute;
 	right: 0;
 	max-width: 120%;
         width: 120%;
-}
-
-.links-hr {
-	position: absolute;
-	right: 0;
-	max-width: 120%;
-        width: 120%;
-	margin-top: 5in;
 }
