@@ -3,19 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/</loc>
-    <lastmod>2023-10-17T22:03:54+01:00</lastmod>
+    <lastmod>2023-12-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/</loc>
-    <lastmod>2023-10-17T22:03:54+01:00</lastmod>
+    <lastmod>2023-12-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/art/</loc>
+    <lastmod>2023-12-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/updates/</loc>
     <lastmod>2023-10-17T22:03:54+01:00</lastmod>
   </url><url>
-    <loc>/posts/art/</loc>
-    <lastmod>2023-09-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/posts/wayland/</loc>
     <lastmod>2023-09-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/contact/</loc>
   </url><url>
     <loc>/categories/</loc>
   </url><url>

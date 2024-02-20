@@ -1,8 +1,8 @@
 div.content {
 	background-color : black;
 	color: white;
-	margin-left: 50px;
-	margin-right: 50px;
+	margin-left: 5in;
+	margin-right: 5in;
 }
 
 body {
@@ -29,7 +29,8 @@ a:hover{
 	border-width: 2px;
 	border-style: solid;
 	display: inline;
-	padding: 2.5px;
+	padding: 4px;
+	margin-left: 5in;
 }
 
 .main-menu ul {
@@ -40,9 +41,16 @@ a:hover{
 	display: inline;
 }
 
-hr {
+.nav-hr {
+	right: 0;
+	max-width: 120%;
+        width: 120%;
+}
+
+.links-hr {
 	position: absolute;
 	right: 0;
 	max-width: 120%;
         width: 120%;
+	margin-top: 5in;
 }

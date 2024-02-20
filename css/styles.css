@@ -29,7 +29,7 @@ a:hover{
 	border-width: 2px;
 	border-style: solid;
 	display: inline;
-	padding: 2.5px;
+	padding: 4px;
 }
 
 .main-menu ul {
@@ -41,7 +41,6 @@ a:hover{
 }
 
 .nav-hr {
-	position: absolute;
 	right: 0;
 	max-width: 120%;
         width: 120%;
